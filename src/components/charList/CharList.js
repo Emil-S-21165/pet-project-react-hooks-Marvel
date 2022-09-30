@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from 'react';
-
 import './charList.scss';
 import Spinner from '../spinner/Spinner';
 import ErrorMessage from '../errorMessage/ErrorMessage';
@@ -114,11 +113,10 @@ const CharList = (props) => {
             </button>
         </div>
     )
-    }
+}
 
 CharList.propTypes = {
     onCharSelected: PropTypes.func.isRequired
 }
-
 
 export default CharList;
