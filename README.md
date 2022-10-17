@@ -1,3 +1,10 @@
+This pet project was made as part of a React course.
+
+project link -- https://marvel-react-pet-project.herokuapp.com/
+
+This project is an information portal of the Marvel Universe, the data for the projects was taken from the public Marvel API.
+The project is written in React 18, using built-in hooks and developing one custom hook. Also in the project were used libraries of forms: formik and YUP. No global state managers were used in this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
